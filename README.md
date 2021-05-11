@@ -1,2 +1,33 @@
 # sesion7-tarea-grupo
-1 Linux commands 1 uptime. 1.1 Execute the uptime command and explain the load average numbers. 1.2 Where does the uptime command get information from?. 2 vmstat 2.1 Run the vmstat command and explain all the columns. 3 free 3.1 Where does the free command get information from? 4 df 4.1 What it’s the purpose of the -h parameter? 5 netstat 5.1 How can I list only the TCP sockets which are listening? 6 sysstat 6.1 How can I enable the sar data collector? 6.2 Explain 3 examples of sysstat tools different as you can read at the theory’s PDF. 7 Log files 7.1 Do an unsuccessful login on the system. In which file are this information? Show it.
+
+ 1  Planificar les copies de seguretat
+Volem assegurar les dades de les següents empreses.
+
+
+Volum total de dades
+Percentatge de dades que canvien/es generen a diari
+Empresa A
+10 GB
+5,00%
+Empresa C
+1 TB
+3,00%
+Empresa E
+50 TB
+1,00%
+
+	D’aquestes dades volem guardar les versions dels últims 28 dies. A partir del pla de seguretat de la figura calcula la quantitat de dades a emmagatzemar i el seu cost. Hauràs de decidir si les dades les desem a cintes DAT/LTO, discs durs, al núvol o una combinació dels dos. Busca diferents plataformes on desar les dades. Hauràs de tindre en compte el preu i el temps que es trigaria en fer cada copia de seguretat. Informa’t de les connexions actuals que ofereixen els ISP així com les velocitats de lectura/escriptura dels discs durs. Entrega un memòria/informe tan detallada i ben presentada com sigui possible, oferint diferents alternatives. Podeu empar un full de càlcul per complementar la memòria. 
+
+	Se t’ocorre algun pla de copies de seguretat millor per a algun dels tres casos?
+
+
+
+
+
+
+
+
+
+
+
+ 
